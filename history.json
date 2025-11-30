@@ -1,0 +1,20 @@
+[
+  {
+    "query": "tell me about flowers",
+    "summary": "Flowers are the reproductive structures of angiosperms (flowering plants), fundamentally responsible for sexual reproduction. Their primary function is to facilitate pollination (transfer of pollen) and subsequent fertilization, leading to seed and fruit formation.\n\nResearch highlights:\n1.  **Morphology & Function:** Composed of specialized organs (sepals, petals, stamens, carpels), flowers exhibit immense morphological diversity, each adaptation contributing to efficient pollen dispersal and reception.\n2.  **Pollination Ecology:** They engage in complex co-evolutionary relationships with pollinators (insects, birds, bats, wind, water), using visual cues (color, shape), olfactory signals (scent), and rewards (nectar, pollen) to attract specific vectors.\n3.  **Evolutionary Significance:** The emergence of flowers was a major evolutionary innovation, contributing significantly to the diversification and ecological dominance of angiosperms across terrestrial ecosystems.\n4.  **Genetic Basis:** Research increasingly explores the genetic regulatory networks (e.g., ABC model) that control floral development and organ identity.",
+    "sources": [],
+    "_saved_at": "2025-11-30T14:20:03.042321Z"
+  },
+  {
+    "query": "tell me about vegan food",
+    "summary": "Vegan food is **exclusively plant-based**, omitting all animal products, including meat, poultry, fish, dairy, eggs, and honey. It comprises fruits, vegetables, grains, legumes, nuts, and seeds.\n\nResearch indicates that a **well-planned vegan diet can be nutritionally adequate** and is associated with potential health benefits (e.g., lower risk of heart disease, type 2 diabetes, certain cancers) and environmental advantages (lower greenhouse gas emissions). However, careful attention is needed to ensure sufficient intake of certain nutrients, notably Vitamin B12, iron, omega-3 fatty acids, iodine, and calcium. The market for diverse vegan alternatives and fortified products continues to expand rapidly.",
+    "sources": [],
+    "_saved_at": "2025-11-30T14:15:06.360623Z"
+  },
+  {
+    "query": "tell me about neanderthals",
+    "summary": "Neanderthals (*Homo neanderthalensis*) were an archaic human species that lived across Europe and parts of Asia from roughly 400,000 to 40,000 years ago.\n\nThey possessed a robust, muscular build, adapted to cold climates, and had a large brain. Recent research highlights their sophisticated capabilities: skilled hunters using complex stone tools (Mousterian technology), controlled fire, lived in social groups, and engaged in symbolic thought, including burying their dead, using ornaments, and possibly creating early forms of art.\n\nNeanderthals coexisted and interbred with anatomically modern humans (*Homo sapiens*), leaving behind genetic traces (1-4% Neanderthal DNA) in many non-African populations today. Their extinction around 40,000 years ago is thought to be multi-faceted, involving factors like climate change, competition with *Homo sapiens*, and possibly disease, rather than a single event. Current research portrays them not as primitive brutes, but as a highly adaptable and intelligent human species with a rich culture.",
+    "sources": [],
+    "_saved_at": "2025-11-30T14:10:30.391423Z"
+  }
+]

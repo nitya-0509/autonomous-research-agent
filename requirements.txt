@@ -1,8 +1,9 @@
-openai
-requests
+streamlit
+google-generativeai
 beautifulsoup4
 lxml
+scikit-learn
+fpdf
+requests
 python-dotenv
 tqdm
-requests
-streamlit
